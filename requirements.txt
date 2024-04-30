@@ -1,0 +1,4 @@
+coppeliasim_zmqremoteapi_client==2.0.3
+ipython==8.22.2
+matplotlib==3.8.3
+numpy==1.26.4
